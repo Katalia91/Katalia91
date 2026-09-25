@@ -12,6 +12,7 @@ A selection of personal projects. More coming soon.
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [🧳 Excursion Booking](https://github.com/Katalia91/excursion-booking) *(in progress)* | Excursion booking app | JavaScript · HTML · CSS |
 | [🏃‍♀️ AI Running Plan Generator](https://github.com/Katalia91/running-plan-generator)| AI-powered running plan generator | JavaScript · SCSS · API |
 | [📖 English Dictionary](https://github.com/Katalia91/dictionary-project) | React-based English dictionary | React · JavaScript · SCSS · APIs |
 | [🌤️ React Weather App](https://github.com/Katalia91/react-weather-app) | Weather application built with React | React · JavaScript · API |
